@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Summer 2018. This is a todo list app, created for the sake of learning to write rspec tests. 
 
-Things you may want to cover:
+Using tutorial at https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html#create-a-readme-md-file-in-the-current-directory
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
